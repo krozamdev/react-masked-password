@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "jsx": "react-jsx",
+      "esModuleInterop": true,
+      "strict": true,
+      "declaration": true,
+      "declarationDir": "./dist",
+      "outDir": "./dist",
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src/**/*"]
+  }
+  

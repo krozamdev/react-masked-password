@@ -1,0 +1,77 @@
+{
+  "name": "@krozamdev/react-masked-password",
+  "author": "krozamdev",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "The InputMaskingPassword component is a password input field that includes masking functionality (hiding characters as the user types) and allows toggling to show or hide the password. It uses the @krozamdev/masked-password library to apply the masking and supports custom mask characters. The component also handles password input changes by passing the raw (unmasked) value via a callback function.",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krozamdev/react-masked-password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krozamdev/react-masked-password/issues"
+  },
+  "homepage": "https://github.com/krozamdev/react-masked-password#readme",
+  "keywords": [
+    "react",
+    "password",
+    "masking",
+    "input",
+    "input masking",
+    "password masking",
+    "prevent password manager",
+    "ignore password manager",
+    "input field utility",
+    "form utilities",
+    "typescript",
+    "javascript",
+    "masked input",
+    "original value retrieval",
+    "frontend tools",
+    "lightweight",
+    "react password input",
+    "react input masking component",
+    "show hide password input",
+    "react password masking",
+    "typescript input masking",
+    "secure password input",
+    "react form utilities",
+    "password protection react",
+    "input masking for forms",
+    "javascript masked input"
+  ],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "@krozamdev/masked-password": "^1.0.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "peerDependencies": {
+    "@krozamdev/masked-password": "^1.0.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-alias": "^5.1.1",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^16.8.0",
+    "@types/react-dom": "^16.8.0",
+    "rollup": "^2.0.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "tslib": "2.3.0",
+    "typescript": "^4.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
