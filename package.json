@@ -49,12 +49,12 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@krozamdev/masked-password": "^1.0.0",
+    "@krozamdev/masked-password": "^1.1.5",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
   "peerDependencies": {
-    "@krozamdev/masked-password": "^1.0.0",
+    "@krozamdev/masked-password": "^1.1.5",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },

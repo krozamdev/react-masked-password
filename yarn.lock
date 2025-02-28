@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@krozamdev/masked-password@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@krozamdev/masked-password/-/masked-password-1.0.0.tgz#3d3345b6c291d35b7fb5bc4e66a12b21f1410b46"
-  integrity sha512-phmyHVGw1GZNhQsgrU/U48fYBL6QTZV1gnYz7UjufBJl7a1gS/lzaL0SK2Q87LFE4FBTvTjijY900rPy6lkJrw==
+"@krozamdev/masked-password@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@krozamdev/masked-password/-/masked-password-1.1.5.tgz#7436dcdb4dcf7c928b99c2eb1abc470f00dae707"
+  integrity sha512-QZaXhCGenDDc3V09qyVLkfaawXxX9/jur4R+YWHnotmvgfEQFZA+e/1sSjMokEPthfnv0v/lkdm2CfK2x//Fig==
 
 "@rollup/plugin-alias@^5.1.1":
   version "5.1.1"
