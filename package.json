@@ -2,7 +2,7 @@
   "name": "@krozamdev/react-masked-password",
   "author": "krozamdev",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The InputMaskingPassword component is a password input field that includes masking functionality (hiding characters as the user types) and allows toggling to show or hide the password. It uses the @krozamdev/masked-password library to apply the masking and supports custom mask characters. The component also handles password input changes by passing the raw (unmasked) value via a callback function.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
